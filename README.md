@@ -1,2 +1,2 @@
 # Project-Party
-Hier ist die offizielle GitHub-Seite von der Project Party App 
+Der Sourcecode ist auf meiner Website zu sehen
